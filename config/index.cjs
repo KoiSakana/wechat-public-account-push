@@ -247,6 +247,9 @@ const USER_CONFIG = {
       {
         type: '生日', name: '张大帅', year: '2000', date: '06-21', isShowAge: true,
       },
+      {
+         type:"生日", name:"多乐","date":"03-18","year":"2023"
+      },
     //   {
     //     type: '节日', name: '结婚纪念日', year: '2020', date: '09-03',
     //   },
