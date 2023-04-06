@@ -60,7 +60,7 @@ const USER_CONFIG = {
   
       /** 星座运势 */
       // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-      horoscope: true,
+      horoscope: false,
     
       /** 生日消息和节日消息 */
       // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
@@ -248,7 +248,7 @@ const USER_CONFIG = {
         type: '生日', name: '张大帅', year: '2000', date: '06-21', isShowAge: true,
       },
       {
-         type:"生日", name:"多乐","date":"03-18","year":"2023"
+         type: '生日', name: '多乐', year: '2023', date: '03-18', isShowAge: true,
       },
     //   {
     //     type: '节日', name: '结婚纪念日', year: '2020', date: '09-03',
